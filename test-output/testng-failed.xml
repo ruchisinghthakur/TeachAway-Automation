@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="TestTeachaway.executionScript">
+        <methods>
+          <include name="testTeacherCertification_Guide"/>
+          <include name="testJobs_JobBoard"/>
+          <include name="testJobs_FeaturedPrograms"/>
+          <include name="testJobs_Community"/>
+          <include name="testTefl_Cerification"/>
+          <include name="testTefl_Courses"/>
+          <include name="startup"/>
+          <include name="testJobs_TeachInUS"/>
+          <include name="testJobs_Destination"/>
+          <include name="testJobs_JobOpenings"/>
+          <include name="teardown"/>
+          <include name="testTeacherCertification_Program"/>
+        </methods>
+      </class> <!-- TestTeachaway.executionScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
